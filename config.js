@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu bé lắmmm 😘😘',
     messDesc: 'Baby cho anh hun mụt cáiii',
     btnAccept: 'Okiiiii lun <3',
-    FbLink: 'img/em.mp4' 
+    FbLink: 'img/em.mp4',
 }
